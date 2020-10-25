@@ -8,7 +8,7 @@ public class Main {
 
 		FilmListe filmListe = new FilmListe();
 		
-		String fil = "C:\\Users\\Mikael Lindebrekke\\My projects\\FilmVelger\\src\\Tilfeldig\\Filmer.txt";
+		String fil = "C:\\Users\\Mikael Lindebrekke\\git\\FilmVelger\\FilmVelger\\src\\Tilfeldig\\Filmer.txt";
 
 		Fil.lesFraFil(filmListe, fil);
 		
