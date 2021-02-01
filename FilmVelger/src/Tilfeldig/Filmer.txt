@@ -1,4 +1,4 @@
-43
+38
 El Orfanato
 Django
 The Fall
@@ -6,9 +6,7 @@ The Cable Guy
 Trainspotting
 Master and Commander
 Citizen Kane
-Manchester by the Sea
 2001: A Space Odyssey
-Leaving Las Vegas
 American Psycho
 The Animatrix
 Primer
@@ -24,21 +22,18 @@ The Beach Bum
 12 Strong
 Polar
 The Farewell
-They Shall Not Grow Old
-Four Lions
-From Dusk till Dawn
 The Sting
 The Nice Guys
 Legend
 Trainspotting
 Now you see me
-Raising Arizona
 Only god forgives 
-The sisters brothers
 Mr Vampire
 Cronos
 Only lovers left alive
-Thirst
 Burnt
 Uncut Gems
 To Cook Up a Storm
+Barton Fink
+Leaving Las Vegas
+Manchester By The Sea
