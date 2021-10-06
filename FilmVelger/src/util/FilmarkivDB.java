@@ -12,14 +12,14 @@ import java.util.List;
 import klasser.Film;
 
 /**
- * Klasse som håndtere CRUD i forbindelse med databasen som ligger på en PostgresSQL server.
+ * Klasse som hÃ¥ndtere CRUD i forbindelse med databasen som ligger pÃ¥ en PostgresSQL server.
  * 
  * @author Mikael
  */
 public class FilmarkivDB {
 
-	// Database informasjon
-	String jdbcUrl = "jdbc:postgresql://data1.hib.no:5433/h239630?user=h239630&password=pass&currentSchema=filmarkiv";
+	// Database informasjon - Passord er sensurert bort
+	String jdbcUrl = "jdbc:postgresql://data1.hib.no:5433/h239630?user=h239630&password=********&currentSchema=filmarkiv";
 
 	List<Film> arkiv;
 
@@ -164,7 +164,7 @@ public class FilmarkivDB {
 	}
 
 	/**
-	 * Finner en film med gitt tittel på film.
+	 * Finner en film med gitt tittel pÃ¥ film.
 	 * 
 	 * @param tittel
 	 * @return
